@@ -5,7 +5,7 @@ image: /img/strelitzia-flower.jpg
 heading: はじめに
 subheading: " IT技術関連の調査ブログ"
 mainpitch:
-  title: ブログ
+  title: IT技術関連の調査ブログ
   description: "\n"
 description: IT技術屋さんとして過ごすも、昨今のクラウド化、XaaS化、アジャイル的な開発に追いつけていないので、調べたことをブログにまとめたいと思っています。
 intro:
